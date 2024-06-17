@@ -189,13 +189,8 @@ This integration enhances the workflow by providing seamless access to version c
     1. GitHub Documentation:
         * General documentation: [GitHub Docs](https://docs.github.com/en)
         * Repositories: GitHub [Repositories](https://docs.github.com/en/repositories)
-        * Version control with Git: [GitHub Version Control](https://docs.github.com/en/get-started/quickstart/github-flow)
-        * Branches: [GitHub Flow](https://docs.github.com/en/get-started/using-git/about-version-control)
-        * Pull Requests: [GitHub Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes)
-        * GitHub Actions: [GitHub Actions](https://docs.github.com/en/actions)
     2. Git Documentation:
         * Official Git documentation: [Git SCM](https://git-scm.com/doc)
     8. Visual Studio Documentation:
         * Visual Studio: [Visual Studio Docs](https://docs.microsoft.com/en-us/visualstudio/)
 
-        
